@@ -1,7 +1,6 @@
 # Simple OAuth
 
-A port to rust of ruby's [simple oauth](git remote add origin git@github.com:zamith/simple_oauth.git
-git push -u origin master).
+A port to rust of ruby's [simple oauth](https://github.com/laserlemon/simple_oauth).
 
 *Note:* This is not usable at all, at the moment, very much work in progress.
 
