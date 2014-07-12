@@ -1,0 +1,10 @@
+[project]
+name = "tests"
+version = "0.0.1"
+authors = [ "luis@zamith.pt" ]
+
+[[lib]]
+name = "tests"
+
+[dependencies.simple_oauth]
+path = ".."

@@ -1,0 +1,7 @@
+[project]
+name = "simple_oauth"
+version = "0.0.1"
+authors = [ "luis@zamith.pt" ]
+
+[[lib]]
+name = "simple_oauth"
