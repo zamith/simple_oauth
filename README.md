@@ -11,13 +11,13 @@ git push -u origin master).
 
 2. Add as a dependency to your `Cargo.toml`
 
-    [dependencies.simple_oauth]
-    path = "https://github.com/zamith/simple_oauth"
+        [dependencies.simple_oauth]
+        path = "https://github.com/zamith/simple_oauth"
     
 3. Include it
 
-    extern crate simple_oauth
-    use simple_oauth::Header;
+        extern crate simple_oauth
+        use simple_oauth::Header;
     
 ## Contributing
 
