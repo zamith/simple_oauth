@@ -5,7 +5,7 @@ fn header() -> Header {
 }
 
 test!(stringifies_and_uppercases_the_request_method {
-  assert_eq!(header().method(), "GET".to_string());
+  assert_eq!(header().method().as_slice(), "GET");
 })
 
 test!(downcases_the_scheme_and_authority {

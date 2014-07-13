@@ -5,3 +5,7 @@ authors = [ "luis@zamith.pt" ]
 
 [[lib]]
 name = "simple_oauth"
+
+[[test]]
+name = "test"
+path = "tests/tests.rs"
